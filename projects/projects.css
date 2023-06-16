@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    color: #457B9D;
+}
+
+.text1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.image1{
+    width: 360px;
+    height: 200px;
+    margin-left: 70px;
+}
+
+.box{
+    width: 360px;
+    height: 120px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border: solid lightgray;
+    margin-left: 70px;
+    padding-left: 10px;
+}
+
+span{
+    color: #457B9D;
+}
+
+.image2{
+    width: 360px;
+    height: 200px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
